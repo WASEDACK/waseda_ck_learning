@@ -1,0 +1,2 @@
+pythonlearning
+-DCATKIN_DEVEL_PREFIX=/home/tusimple/learngit/devel -DCMAKE_INSTALL_PREFIX=/home/tusimple/learngit/install -G Unix Makefiles

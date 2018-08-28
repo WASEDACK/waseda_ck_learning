@@ -1,0 +1,8 @@
+prefix=/home/tusimple/learngit/devel
+
+Name: pythonlearning
+Description: Description of pythonlearning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tusimple/learngit/devel/lib 
+Requires: 
