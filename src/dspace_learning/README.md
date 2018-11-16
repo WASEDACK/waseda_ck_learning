@@ -1,12 +1,12 @@
 #dspace_learning#
 
 ##vocabulary##
-ethernet 以太网
-socket 插座
-plug 插头
-RTW real—time workshop  可以把simulink模型编译成为C代码
-RTI real-time interface  可以把C代码跑在硬件系统上
-CDP control development package 
+- ethernet 以太网
+- socket 插座
+- plug 插头
+- RTW real—time workshop  可以把simulink模型编译成为C代码
+- RTI real-time interface  可以把C代码跑在硬件系统上
+- CDP control development package 
 
 
 ##Note##
