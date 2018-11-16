@@ -1,31 +1,31 @@
-#dspace_learning#
+# dspace_learning
 
-##vocabulary##
-ethernet 以太网
-socket 插座
-plug 插头
-RTW real—time workshop  可以把simulink模型编译成为C代码
-RTI real-time interface  可以把C代码跑在硬件系统上
-CDP control development package 
+## vocabulary
+- ethernet 以太网
+- socket 插座
+- plug 插头
+- RTW real—time workshop  可以把simulink模型编译成为C代码
+- RTI real-time interface  可以把C代码跑在硬件系统上
+- CDP control development package 
 
 
-##Note##
+## Note
 - **Vehicle CAN**:
 - **ROS**:
 - **DIO**:
 - **Matlab**      
 xlsread() function can import the data from excel files as a matrix.
 
-##questions##
+## questions
 1. IP
 2. Flash Setup
 3. Baudrate:500 kbit/s
 4. DIO: 读取刹车灯信息？
 5. confirm the dspace development process.
 
-##matlab_file_learing##
+## matlab_file_learing
 
-###dspace settings in simulink###
+### dspace settings in simulink
 1. **RTI CAN controller setuo**:    
 one CAN controller setup block must always be present before your using it.
 2. **Ethernet UDP Setup**:     
